@@ -1,0 +1,16 @@
+{
+  "name": "week01-intro_to_node",
+  "version": "1.0.0",
+  "description": "This folder will contain some basic JS code. The goal here is to bring up some refreshers to JS and make sure you can run code on your IDE of choice and not just through your brower.",
+  "main": "01-helloworld.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
